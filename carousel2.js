@@ -1,6 +1,6 @@
 import EmblaCarousel from 'https://cdn.jsdelivr.net/npm/embla-carousel@8.0.2/+esm'
-import { addPrevNextBtnsClickHandlers } from 'https://cdn.jsdelivr.net/gh/okpsuru/botaniq-cdn@main/EmblaCarouselArrowButtons.min.js/+esm'
-import { addDotBtnsAndClickHandlers } from 'https://cdn.jsdelivr.net/gh/okpsuru/botaniq-cdn@main/EmblaCarouselDotButton.min.js/+esm'
+import { addPrevNextBtnsClickHandlers } from 'https://cdn.jsdelivr.net/gh/okpsuru/botaniq-cdn@main/EmblaCarouselArrowButtons.min.js'
+import { addDotBtnsAndClickHandlers } from 'https://cdn.jsdelivr.net/gh/okpsuru/botaniq-cdn@main/EmblaCarouselDotButton.min.js'
 import Autoplay from 'https://cdn.jsdelivr.net/npm/embla-carousel-autoplay@8.0.2/+esm'
 
 
